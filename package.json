@@ -1,0 +1,25 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "Restful api for todoList",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error : no test api specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshadeXter/node-with-restful-api.git"
+  },
+  "keywords": [
+    "Node",
+    "JS",
+    "Restful",
+    "API"
+  ],
+  "author": "Harsha Liyanarachchi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshadeXter/node-with-restful-api/issues"
+  },
+  "homepage": "https://github.com/harshadeXter/node-with-restful-api#readme"
+}
